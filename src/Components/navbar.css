@@ -1,0 +1,22 @@
+
+header{
+    padding: 1rem 3rem;
+    margin: 0 0 1rem 0;
+}
+nav{
+    display: flex;
+    align-items: space-between;
+    margin: 0 auto;
+}
+
+span{
+    font-style: normal;
+    color: var(--blue);
+    margin-left: 5px;
+}
+
+.logo{
+    font-size: 2rem;
+    font-weight: 900;
+}
+

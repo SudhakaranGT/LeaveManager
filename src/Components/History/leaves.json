@@ -1,0 +1,48 @@
+[
+    {
+      "reason": "Vacation",
+      "startDate": "2023-07-01",
+      "endDate": "2023-07-05",
+      "type": "out of office",
+      "time":"full-day"
+    },
+    {
+      "reason": "Sick Leave",
+      "startDate": "2023-08-15",
+      "endDate": "2023-08-16",
+      "type": "out of office",
+      "time":"half-day"
+    },
+    {
+      "reason": "Sick Leave",
+      "startDate": "2023-08-15",
+      "endDate": "2023-08-16",
+      "type": "work from home",
+      "time":"half-day"
+
+
+    },
+ 
+    {
+      "reason": "Conference",
+      "startDate": "2023-10-10",
+      "endDate": "2023-10-12",
+      "type": "out of office",
+      "time":"half-day"
+    },
+    {
+      "reason": "Medical Appointment",
+      "startDate": "2023-11-05",
+      "endDate": "2023-11-05",
+      "type": "out of office",
+      "time":"half-day"
+    },
+    {
+      "reason": "Training",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-02",
+      "type": "out of office",
+      "time":"half-day"
+    }
+  ]
+  
