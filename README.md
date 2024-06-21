@@ -3,14 +3,14 @@
 
 ### Remote add 
 ```bash
-git remote add origin https://github.com/SudhakaranGT/JobBoard.git
+git remote add origin https://github.com/SudhakaranGT/LeaveManager.git
 ```
 
 ### Cloning the Repository:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/SudhakaranGT/JobBoard.git
+    git clone https://github.com/SudhakaranGT/LeaveManager.git
     ```
 
 ### Creating a Branch:
